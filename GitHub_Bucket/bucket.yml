@@ -1,6 +1,6 @@
 flows:
-  ff270dfd-96f1-472c-9e70-fa70c36112bc: {ver: 1, file: Sample2.snapshot, comments: '',
-    author: anonymous, created: 1609268713692, flowName: Sample2, flowDesc: ''}
+  ff270dfd-96f1-472c-9e70-fa70c36112bc: {ver: 2, file: Sample2.snapshot, comments: '',
+    author: anonymous, created: 1609268877148, flowName: Sample2, flowDesc: ''}
   f648e75a-6b0c-4e44-90dc-6742098602c4: {ver: 1, file: GitHub.snapshot, comments: '',
     author: anonymous, created: 1609203851774, flowName: GitHub, flowDesc: ''}
 layoutVer: 1
