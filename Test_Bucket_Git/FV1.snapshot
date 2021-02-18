@@ -150,8 +150,8 @@
           "name" : "LogAttribute",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 380.0,
-            "y" : 335.0
+            "x" : 688.0,
+            "y" : 240.0
           },
           "properties" : {
             "character-set" : "UTF-8",
